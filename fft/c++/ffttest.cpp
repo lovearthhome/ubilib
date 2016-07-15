@@ -29,7 +29,7 @@
 #include <iomanip>
 #include <iostream>
 #include <vector>
-#include "fft.hpp"
+#include "FFT.hpp"
 
 using std::cout;
 using std::endl;
